@@ -2,5 +2,6 @@
 
 Language | Link
 ---------|----------
-Documentation | https://github.com/firstcontributions/first-contributions
+Documentation / First PR | https://github.com/firstcontributions/first-contributions
 PowerShell | https://github.com/Stephanevg/PSHTML/issues/19
+First PR | https://github.com/monsij/HelloWorld_Hacktober18/issues/71
