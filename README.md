@@ -12,4 +12,6 @@ Very important that all attendees read and adhere to the [code of conduct](https
 
 We want this event to be inclusive, useful and most of fun! If you have questions, we want to make sure you can ask them in a safe environment. There is no such thing as a silly question! 
 
+Heres [a short video of a Pull Request](https://youtu.be/qmZtFB4xHlI)
+
 ![diagram](DrawGitHubPullRq.jpg)
