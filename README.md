@@ -11,3 +11,7 @@ Hacktoberfest Workshop code, slides and other goodness for the workshop by @paub
 Very important that all attendees read and adhere to the [code of conduct](https://docs.google.com/document/d/1gFKOhyUqMZzrZcbq8A_TpO5x9J9HK6agv70awCH8pyI/). We will make sure everybody gets a chance to read this at the start of the workshop. 
 
 We want this event to be inclusive, useful and most of fun! If you have questions, we want to make sure you can ask them in a safe environment. There is no such thing as a silly question! 
+
+Heres [a short video of a Pull Request](https://youtu.be/qmZtFB4xHlI)
+
+![diagram](DrawGitHubPullRq.jpg)
