@@ -1,6 +1,6 @@
 # Hacktoberfest Workshop
 
-Hacktoberfest Workshop code, slides and other goodness for the workshop by @pauby and @cporteou.
+Hacktoberfest Workshop code, slides and other goodness for the workshop by [pauby](https://github.com/pauby) and [cporteou](https://github.com/cporteou).
 
 ## Workshop Dates
 
@@ -12,6 +12,13 @@ Very important that all attendees read and adhere to the [code of conduct](https
 
 We want this event to be inclusive, useful and most of fun! If you have questions, we want to make sure you can ask them in a safe environment. There is no such thing as a silly question! 
 
-Heres [a short video of a Pull Request](https://youtu.be/qmZtFB4xHlI)
+## Additional Resources
+
+* [Open Source Projects - How To Contribute](https://www.batesbase.com/home/2018/10/2/open-source-projects-part-1-how-to-contribute)
+* [A short video of a Pull Request](https://youtu.be/qmZtFB4xHlI)
+
+### How a Pull Request Works
+
+Hand drawn diagram of how a Pull Request works (thanks to [L3gomancer](https://github.com/L3gomancer))
 
 ![diagram](DrawGitHubPullRq.jpg)
